@@ -1,0 +1,3 @@
+include 'org.xtext.example.entity'
+include 'org.xtext.example.entity.ide'
+include 'org.xtext.example.entity.idea'
